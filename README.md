@@ -1,7 +1,7 @@
 Enlaces:
 - Aprende PL/SQL con el siguiente enlace: [School W3 PL/SQL](https://www.w3schools.blog/plsql-tutorial?utm_source=chatgpt.com)
 
-<br><br>
+<br>
 
 > [!WARNING]  
 > Este repositorio ha sido creado durante mis estudios, por lo que puede contener errores o no seguir las mejores prácticas. Se recomienda contrastar la información y tener en cuenta que esta forma de programar podría no ser la esperada o recomendada por su profesor. 
