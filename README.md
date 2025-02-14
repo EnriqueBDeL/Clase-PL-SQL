@@ -1,3 +1,51 @@
+Contenido:
+
+ <div align="left">
+ Clase 1 PL/SQL
+  <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%201%20PL-SQL.sql" target="_blank">
+    <button>[ESTRUCTURA DE BLOQUE PL/SQ]</button>
+  </a>
+  <br>
+   Clase 2 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%202%20PL-SQL.sql" target="_blank">
+    <button>[PROCEDIMIENTO]</button>
+  </a>
+  <br>
+     Clase 3 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%203%20PL-SQL.sql" target="_blank">
+    <button>[VARIABLES]</button>
+  </a>
+  <br>
+     Clase 4 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%204%20PL-SQL.sql" target="_blank">
+    <button>[DELIMITADORES DE LITERALES DE CADENA]</button>
+  </a>
+  <br>
+    Clase 5 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%205%20PL-SQL.sql" target="_blank">
+    <button>[ATRIBUTO %TYPE]</button>
+  </a>
+  <br>
+     Clase 6 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%206%20PL-SQL.sql" target="_blank">
+    <button>[CONVERSION DE DATOS]</button>
+  </a>
+  <br>
+     Clase 7 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%207%20PL-SQL.sql" target="_blank">
+    <button>[FUNCION]</button>
+  </a>
+  <br>
+      Clase 8 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%208%20PL-SQL.sql" target="_blank">
+    <button>[BLOQUE ANONIMO]</button>
+  </a>
+  <br>
+</div>
+
+<br>
+
+
 Enlaces:
 - Aprende PL/SQL con el siguiente enlace: [School W3 PL/SQL](https://www.w3schools.blog/plsql-tutorial?utm_source=chatgpt.com)
 
