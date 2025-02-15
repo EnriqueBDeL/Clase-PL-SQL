@@ -41,6 +41,16 @@ Contenido:
     <button>[BLOQUE ANONIMO]</button>
   </a>
   <br>
+        Clase 9 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%209%20PL-SQL.sql" target="_blank">
+    <button>[SELECT INTO]</button>
+  </a>
+  <br>
+        Clase 10 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2010%20PL-SQL.sql" target="_blank">
+    <button>[BLOQUES ANIDADOS]</button>
+  </a>
+  <br>
 </div>
 
 <br>
