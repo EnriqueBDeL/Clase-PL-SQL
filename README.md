@@ -51,6 +51,31 @@ Contenido:
     <button>[BLOQUES ANIDADOS]</button>
   </a>
   <br>
+       Clase 11 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2011%20PL-SQL.sql" target="_blank">
+    <button>[LENGUAJE DE MANIPULACIÓN DE DATOS]</button>
+  </a>
+  <br>
+        Clase 12 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2012%20PL-SQL.sql" target="_blank">
+    <button>[CURSORES]</button>
+  </a>
+  <br>
+          Clase 13 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2013%20PL-SQL.sql" target="_blank">
+    <button>[SENTENCIA "IF"]</button>
+  </a>
+  <br>
+         Clase 14 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2014%20PL-SQL.sql" target="_blank">
+    <button>[SENTENCIA "CASE"]</button>
+  </a>
+  <br>
+        Clase 15 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2015%20PL-SQL.sql" target="_blank">
+    <button>[BUCLES]</button>
+  </a>
+  <br>
 </div>
 
 <br>
