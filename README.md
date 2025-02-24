@@ -76,6 +76,11 @@ Contenido:
     <button>[BUCLES]</button>
   </a>
   <br>
+          Clase 16 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2016%20PL-SQL.sql" target="_blank">
+    <button>[REGISTROS]</button>
+  </a>
+  <br>
 </div>
 
 <br>
