@@ -81,6 +81,11 @@ Contenido:
     <button>[REGISTROS]</button>
   </a>
   <br>
+           Clase 17 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2017%20PL-SQL.sql" target="_blank">
+    <button>[MATRICES ASOCIATIVAS]</button>
+  </a>
+  <br>
 </div>
 
 <br>
