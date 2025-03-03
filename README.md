@@ -91,6 +91,11 @@ Contenido:
     <button>[TABLAS ANIDADAS]</button>
   </a>
   <br>
+            Clase 19 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2019%20PL-SQL.sql" target="_blank">
+    <button>[VARRAY]</button>
+  </a>
+  <br>
 </div>
 
 <br>
