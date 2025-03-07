@@ -96,6 +96,11 @@ Contenido:
     <button>[VARRAY]</button>
   </a>
   <br>
+            Clase 20 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2020%20PL-SQL.sql" target="_blank">
+    <button>[EXCEPCIONES]</button>
+  </a>
+  <br>
 </div>
 
 <br>
