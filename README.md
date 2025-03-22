@@ -106,6 +106,11 @@ Contenido:
     <button>[DISPARADORES]</button>
   </a>
   <br>
+            Clase 22 PL/SQL
+   <a href="https://github.com/EnriqueBDeL/Clase-PL-SQL/blob/main/Clase%2022%20PL-SQL.sql" target="_blank">
+    <button>[FETCH FIRST]</button>
+  </a>
+  <br>
 </div>
 
 <br>
