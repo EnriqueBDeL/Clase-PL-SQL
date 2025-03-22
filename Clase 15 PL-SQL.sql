@@ -133,7 +133,7 @@ END LOOP;
 
 
 
--- EJEMPLO:
+-- EJEMPLO 1:
 
 
 BEGIN  
@@ -147,8 +147,56 @@ BEGIN
 END;
 
 
+-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+-- EL BUCLE FOR ... IN EN PL/SQL SE USA PARA RECORRER LOS RESULTADOS DE UNA CONSULTA SQL SIN NECESIDAD DE MANEJAR CURSORES MANUALMENTE. 
+-- SE EJECUTA TANTAS VECES COMO FILAS DEVUELVA LA CONSULTA.
+
+
+
+
+
+-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+-- TABLA PARA EJEMPLO:
+
+
+CREATE TABLE EMPLEADOS (
+    ID NUMBER PRIMARY KEY,
+    NOMBRE VARCHAR2(100),
+    SALARIO NUMBER
+);
+
+
+INSERT INTO EMPLEADOS VALUES (1, 'Ana Pérez', 2500);
+INSERT INTO EMPLEADOS VALUES (2, 'Carlos Gómez', 3000);
+INSERT INTO EMPLEADOS VALUES (3, 'Laura Sánchez', 2800);
+INSERT INTO EMPLEADOS VALUES (4, 'David Rodríguez', 3200);
+
+
+--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+-- EJEMPLO 2:
+
+
+
+DECLARE
+   
+    V_NOMBRE EMPLEADOS.NOMBRE%TYPE;
+    V_SALARIO EMPLEADOS.SALARIO%TYPE;
+
+BEGIN
+   
+    FOR V_EMPLEADO IN (SELECT NOMBRE, SALARIO FROM EMPLEADOS) LOOP
+   
+        DBMS_OUTPUT.PUT_LINE('Empleado: ' || V_EMPLEADO.NOMBRE || ', Salario: ' || V_EMPLEADO.SALARIO);
+
+    END LOOP;
+END;
 
 
 
