@@ -132,7 +132,7 @@ BEGIN
 
             DBMS_OUTPUT.PUT_LINE('Excelente');
 
-        WHEN calificacion >= 70 THEN
+        WHEN NOTA >= 70 THEN
 
             DBMS_OUTPUT.PUT_LINE('Aprobado');
 
